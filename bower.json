@@ -1,0 +1,25 @@
+{
+  "name": "setimmediate",
+  "description": "A shim for the setImmediate efficient script yielding API",
+  "main": "setImmediate.js",
+  "authors": [
+    "Domenic Denicola <d@domenic.me> (https://domenic.me)",
+    "Donavon West <github@donavon.com> (http://donavon.com)",
+    "Yaffle"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "setImmediate",
+    "script",
+    "yielding",
+    "timer"
+  ],
+  "homepage": "https://github.com/lawcompany/setImmediate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
